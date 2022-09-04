@@ -3,7 +3,7 @@
     "description": "Eliminatórias Copa 2022",
     "place": {
       "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://fernandes.arq.br/wp-content/uploads/2018/07/85e13febca193654f2814c7978c3af36-1200x800.jpg"
     },
     "home_team": {
       "name": "Brasil",
@@ -20,7 +20,7 @@
     "description": "Eliminatórias Copa 2022",
     "place": {
       "name": "Estádio Centenário",
-      "image": "TODO"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "home_team": {
       "name": "Uruguay",
@@ -36,8 +36,8 @@
   {
     "description": "Eliminatórias Copa 2022",
     "place": {
-      "name": "EMaracanã",
-      "image": "TODO"
+      "name": "Maracanã",
+      "image": "https://fernandes.arq.br/wp-content/uploads/2018/07/85e13febca193654f2814c7978c3af36-1200x800.jpg"
     },
     "home_team": {
       "name": "Brasil",
